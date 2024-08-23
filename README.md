@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+ - 🌱 I'm a Biology student who recently developed an interest in coding, wish me luck
 <!--
 **MarijanVis/MarijanVis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
